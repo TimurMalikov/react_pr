@@ -1,0 +1,59 @@
+@font-face {
+    font-family: "Gilroy Light";
+    src: local("Gilroy Light"),
+    local("Gilroy-Light"),
+    url("./Fonts/Gilroy-Light/Gilroy-Light.eot") format("eot"),
+    url("./Fonts/Gilroy-Light/Gilroy-Light.woff2") format("woff2"),
+    url("./Fonts/Gilroy-Light/Gilroy-Light.woff") format("woff");
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: "Gilroy Regular";
+    src: local("Gilroy Regular"),
+    local("Gilroy-Regular"),
+    url("./Fonts/Gilroy-Regular/Gilroy-Regular.eot") format("eot"),
+    url("./Fonts/Gilroy-Regular/Gilroy-Regular.woff2") format("woff2"),
+    url("./Fonts/Gilroy-Regular/Gilroy-Regular.woff") format("woff");
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "Gilroy Medium";
+    src: local("Gilroy Medium"),
+    local("Gilroy-Medium"),
+    url("./Fonts/Gilroy-Medium/Gilroy-Medium.eot") format("eot"),
+    url("./Fonts/Gilroy-Medium/Gilroy-Medium.woff2") format("woff2"),
+    url("./Fonts/Gilroy-Medium/Gilroy-Medium.woff") format("woff");
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: "Gilroy SemiBold";
+    src: local("Gilroy SemiBold"),
+    local("Gilroy-SemiBold"),
+    url("./Fonts/Gilroy-SemiBold/Gilroy-SemiBold.eot") format("eot"),
+    url("./Fonts/Gilroy-SemiBold/Gilroy-SemiBold.woff2") format("woff2"),
+    url("./Fonts/Gilroy-SemiBold/Gilroy-SemiBold.woff") format("woff");
+    font-weight: 600;
+}
+
+@font-face {
+    font-family: "Gilroy Bold";
+    src: local("Gilroy Bold"),
+    local("Gilroy-Bold"),
+    url("./Fonts/Gilroy-Bold/Gilroy-Bold.eot") format("eot"),
+    url("./Fonts/Gilroy-Bold/Gilroy-Bold.woff2") format("woff2"),
+    url("./Fonts/Gilroy-Bold/Gilroy-Bold.woff") format("woff");
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: "Gilroy ExtraBold";
+    src: local("Gilroy ExtraBold"),
+    local("Gilroy-ExtraBold"),
+    url("./Fonts/Gilroy-ExtraBold/Gilroy-ExtraBold.eot") format("eot"),
+    url("./Fonts/Gilroy-ExtraBold/Gilroy-ExtraBold.woff2") format("woff2"),
+    url("./Fonts/Gilroy-ExtraBold/Gilroy-ExtraBold.woff") format("woff");
+    font-weight: 800;
+}

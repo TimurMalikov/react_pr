@@ -1,0 +1,40 @@
+.NavigationWrap {
+    margin: 0;
+    width: 1440px;
+    background: rgba(0, 0, 0, 0.8);
+}
+
+.NavigationLink {
+    display: flex;
+    align-items: center;
+    padding: 6px 12px 4px 11px;
+    border: 1px solid transparent;
+    list-style: none;
+    color: #FBFFFF;
+    font-family: Gilroy Medium, sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    text-transform: uppercase;
+}
+
+.NavigationLink:hover {
+    border-radius: 14px;
+    border: 1px solid #E1A43B;
+}
+
+.Navigation {
+    display: flex;
+    justify-content: space-between;
+    margin: 0;
+    padding: 0 155px 0 155px;
+}
+
+.NavigationImgCheckmark {
+    padding-left: 9px;
+}
+
+.NavigationImgFigure {
+    padding-right: 10px;
+}
