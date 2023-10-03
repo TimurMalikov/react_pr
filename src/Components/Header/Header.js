@@ -1,10 +1,10 @@
-import logo from "../../Images/Header/logo.svg";
-import flag from "../../Images/Header/flag.svg";
-import rating from "../../Images/Header/rating.svg";
-import calculator from "../../Images/Header/calculator.svg";
-import letter from "../../Images/Header/letter.svg";
-import whatsapp from "../../Images/Header/whatsapp.svg";
-import round from "../../Images/Header/round.svg";
+import logo from "../../Assets/Images/Header/logo.svg";
+import flag from "../../Assets/Images/Header/flag.svg";
+import rating from "../../Assets/Images/Header/rating.svg";
+import calculator from "../../Assets/Images/Header/calculator.svg";
+import letter from "../../Assets/Images/Header/letter.svg";
+import whatsapp from "../../Assets/Images/Header/whatsapp.svg";
+import round from "../../Assets/Images/Header/round.svg";
 
 import React from 'react';
 import "./Header.css";

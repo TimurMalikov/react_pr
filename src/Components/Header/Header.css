@@ -1,8 +1,10 @@
 .Header {
+    position: absolute;
+    z-index: 1;
     display: flex;
     padding: 26px 162px 32px 165px ;
     box-sizing: border-box;
-    background: rgba(0, 0, 0, 0.8);
+    /*background: rgba(0, 0, 0, 0.8);*/
     width: 1440px;
 }
 

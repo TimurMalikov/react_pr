@@ -1,0 +1,87 @@
+.Banner {
+    position: relative;
+}
+
+.Banner__Background {
+    background-image: url("../../Assets/Images/Banner/background.svg");
+    background-size: cover;
+    width: 1440px;
+    height: 803px;
+}
+
+.Banner__Title-wrap {
+    padding: 236px 0 0 166px;
+    width: 429px;
+}
+
+.Banner__Title {
+    margin: 0;
+    padding-bottom: 16px;
+    color: #FFF;
+    font-family: Gilroy Regular, sans-serif;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 52px;
+}
+
+.Banner__Title > span {
+    color: #FFF;
+    font-family: Gilroy Bold, sans-serif;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 52px;
+}
+
+.Banner__Description {
+    margin: 0;
+    padding-bottom: 42px;
+    width: 323px;
+    color: #FFF;
+    font-family: Gilroy Regular, sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.Banner__Description > span {
+    color: #FFF;
+    font-family: Gilroy Bold, sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.Banner__Button {
+    padding: 20px 42px;
+    border-radius: 4px;
+    border: none;
+    background: #FEAA01;
+    color: #FBFFFF;
+    font-family: Gilroy Bold, sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+}
+
+.Banner__Resume {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    margin: 69px 527px 0 166px;
+}
+
+.Banner__Resume-description {
+    margin: 0;
+    color: #FFF;
+    font-family: Gilroy Regular, sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}

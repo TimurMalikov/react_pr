@@ -1,9 +1,9 @@
 import React from 'react';
 import "./Navigation.css";
 
-import checkmark from "../../Images/Navigation/checkmark.svg";
-import heart from "../../Images/Navigation/heart.svg";
-import loupe from "../../Images/Navigation/loupe.svg";
+import checkmark from "../../Assets/Images/Navigation/checkmark.svg";
+import heart from "../../Assets/Images/Navigation/heart.svg";
+import loupe from "../../Assets/Images/Navigation/loupe.svg";
 
 
 function Navigation() {

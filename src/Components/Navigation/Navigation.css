@@ -1,7 +1,10 @@
 .NavigationWrap {
+    position: absolute;
+    z-index: 1;
+    top: 128px;
     margin: 0;
     width: 1440px;
-    background: rgba(0, 0, 0, 0.8);
+    /*background: rgba(0, 0, 0, 0.8);*/
 }
 
 .NavigationLink {
@@ -22,6 +25,7 @@
 .NavigationLink:hover {
     border-radius: 14px;
     border: 1px solid #E1A43B;
+    cursor: pointer;
 }
 
 .Navigation {
